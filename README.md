@@ -1,6 +1,6 @@
 # intron_tool
 
-The intron analysis tool was developed in order to quantify intronic retention. The tool will allow us to assess intron retention across specific introns and globally across the transcriptome, both in large sequencing cohorts and in model systems in response to perturbations.
+The intron analysis tool was developed in order to quantify intronic retention. The tool allows us to assess intron retention across specific introns and globally across the transcriptome, both in large sequencing cohorts and in model systems in response to perturbations.
 
 Please reference https://www.sciencedirect.com/science/article/abs/pii/S0092867420317530 for our paper utilizing this tool.
 
