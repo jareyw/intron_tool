@@ -6,7 +6,7 @@ Please reference https://www.sciencedirect.com/science/article/abs/pii/S00928674
 
 The first step is to define the intronic space (or individual intron features) in which we assess intronic read abundance. The second step will be to use aligned RNA-seq data and compute intron read counts across intron features. The third step will be to normalize the data, filter the data, and then output various metrics of intron retention. Finally, we will visualize the data using R.
 
-<u>**First step**</u>
+**<u>First step</u>**
 
 **make_conserved_gtf.py**
 
