@@ -4,7 +4,7 @@ The intron analysis tool was developed in order to assess and quantify intronic 
 
 Please reference https://www.sciencedirect.com/science/article/abs/pii/S0092867420317530 for our paper utilizing this tool.
 
-The first step is to define the intronic space (or individual intron features) in which we assess intronic read abundance. The second step will be to use aligned RNA-seq data and compute intron read counts across intron features. The third step will be to normalize the data, filter the data, and then output various metrics of intron retention. Finally, we will visualize the data using R.
+The first step is to define the intronic space (i.e. individual intron features) in which we assess intronic read abundance. The second step will be to use aligned RNA-seq data and compute intron read counts across intron features. The third step will be to normalize the data, filter the data, and then output various metrics of intron retention. Finally, we will visualize the data using R.
 
 ***First step***
 
