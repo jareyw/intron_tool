@@ -26,7 +26,7 @@ The default for the tool assumes the output of _make_conserved_intron_gtf.py_ wa
 
 **intronCounter.py**
 
-Input(s): .bam files, output of _make_conserved_intron_gtf.py_
+Input(s): .bam files, output of _make_conserved_intron_gtf.py_ </br>
 Output(s): modified .gtf containing intron read count, spanning read count, and rpkm across the intron
 
 ***Third step***
