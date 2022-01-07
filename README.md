@@ -6,7 +6,7 @@ Please reference https://www.sciencedirect.com/science/article/abs/pii/S00928674
 
 The first step is to define the intronic space (or individual intron features) in which we assess intronic read abundance. The second step will be to use aligned RNA-seq data and compute intron read counts across intron features. The third step will be to normalize the data, filter the data, and then output various metrics of intron retention. Finally, we will visualize the data using R.
 
-**<u>First step</u>**
+***First step***
 
 **make_conserved_gtf.py**
 
@@ -20,14 +20,14 @@ Input: output of make_conserved_gtf.py </br>
 Output: gtf file with conserved (or "constitutive") introns features </br>
 Filter criteria: introns present in all annotated isoforms for each gene
 
-<u>**Second step**</u>
+***Second step***
 
 **intronCounter.py**
 
 Input(s): folder containing .bam files
 
-<u>**Third step**</u>
+***Third step***
 
 **intronFilter.py**
 
-<u>**Final step**</u>
+***Final step***
